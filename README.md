@@ -1,1 +1,1 @@
-# AI-projects
+# Machine-Learning-Spring24
